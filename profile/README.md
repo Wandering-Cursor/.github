@@ -10,4 +10,4 @@
 Складається він з (наразі) двох частин (Docs comming soon):
  - [Frontend](https://github.com/Wandering-Cursor/Samurai-Frontend)
  - [Backend](https://github.com/Wandering-Cursor/Samurai-Backend)
- - [Frontend (Admin)](https://github.com/Wandering-Cursor/Samurai-Admin-Frontend)
+ - [Frontend (Admin)](https://github.com/Wandering-Cursor/Samurai-Frontend-Admin)
