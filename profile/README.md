@@ -8,6 +8,7 @@
 
 Перший великий проект. Це дуже потужний інструмент для студентів, які пишуть дипломні проекти, викладачів, які курують цей процес, та завідувачів, які спостерігають за ним. Деталі - у відповідних репозиторіях.
 Складається він з (наразі) двох частин (Docs comming soon):
- - [Frontend](https://github.com/Wandering-Cursor/Samurai-Frontend)
+ - [Frontend (Students)](https://github.com/Wandering-Cursor/Samurai-Frontend)
+ - [Frontend (Teachers)](https://github.com/Wandering-Cursor/Samurai-Frontend-Teacher)
  - [Backend](https://github.com/Wandering-Cursor/Samurai-Backend)
  - [Frontend (Admin)](https://github.com/Wandering-Cursor/Samurai-Frontend-Admin)
