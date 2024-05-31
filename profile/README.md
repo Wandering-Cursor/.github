@@ -10,5 +10,6 @@
 Складається він з (наразі) двох частин (Docs comming soon):
  - [Frontend (Students)](https://github.com/Wandering-Cursor/Samurai-Frontend)
  - [Frontend (Teachers)](https://github.com/Wandering-Cursor/Samurai-Frontend-Teacher)
+ - [Frontend (Overseer)](https://github.com/Wandering-Cursor/Samurai-Frontend-Overseer)
  - [Backend](https://github.com/Wandering-Cursor/Samurai-Backend)
  - [Frontend (Admin)](https://github.com/Wandering-Cursor/Samurai-Frontend-Admin)
