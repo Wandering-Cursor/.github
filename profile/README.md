@@ -13,3 +13,8 @@
  - [Frontend (Overseer)](https://github.com/Wandering-Cursor/Samurai-Frontend-Overseer)
  - [Backend](https://github.com/Wandering-Cursor/Samurai-Backend)
  - [Frontend (Admin)](https://github.com/Wandering-Cursor/Samurai-Frontend-Admin)
+
+
+### ONTU Schedule Bot
+
+Проєкт боту з розкладом для ОНТУ. Неофіційний бот, що використовує ресурси сайту з розкладом ВНЗ.
